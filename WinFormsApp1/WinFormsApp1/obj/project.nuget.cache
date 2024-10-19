@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OkPhMxlTP10=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carpi\\OneDrive\\Escritorio\\NAVEGADOR\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carpi\\.nuget\\packages\\microsoft.web.webview2\\1.0.2839-prerelease\\microsoft.web.webview2.1.0.2839-prerelease.nupkg.sha512"
+  ],
+  "logs": []
+}
